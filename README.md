@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasjsr&label=Profile%20views&color=0e75b6&style=flat" alt="vikasjsr" /> </p>
 
-- 🌱 I’m currently learning **Data structures & Algorithms, Redux, Node.js & Express.js**
+- 🌱 I’m currently learning **Data structures & Algorithms, Redux.**
 
 - 💬 Ask me about **C/C++, Data structures and Algorithms, React and Javascript,**
 
