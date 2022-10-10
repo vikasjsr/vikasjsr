@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Vikas Jaiswar</h1>
-<h3 align="center">A passionate frontend developer love to create intuitive designs</h3>
+<h3 align="center">A passionate frontend developer love to create intuitive designs using Reactjs and Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasjsr&label=Profile%20views&color=0e75b6&style=flat" alt="vikasjsr" /> </p>
 
-- 🌱 I’m currently learning **Data structures & Algorithms.**
+- 🌱 I’m currently learning Redux, **Data structures & Algorithms.**
 
 - 💬 Ask me about **C/C++, Data structures and Algorithms, React and Javascript,**
 
